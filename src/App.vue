@@ -8,13 +8,13 @@
 <script>
 import NavBar from './components/NavBar.vue';
 
+
 export default {
   components: {
-    NavBar,
+    NavBar,  // Updated component name
   },
 };
 </script>
-
 <style>
 #app {
   font-family: Arial, sans-serif;

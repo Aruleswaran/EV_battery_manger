@@ -28,7 +28,7 @@ export default {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #2c3e50; /* Dark blue background */
+  background-color: #2c3e50;
   padding: 10px 20px;
 }
 
@@ -55,6 +55,6 @@ export default {
 }
 
 .nav-item .nav-link:hover {
-  background-color: #1abc9c; /* Light green on hover */
+  background-color: #1abc9c;
 }
 </style>
